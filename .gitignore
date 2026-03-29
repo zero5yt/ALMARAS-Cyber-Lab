@@ -1,0 +1,4 @@
+ngrok.yml
+*.apk
+*.exe
+target_files/
