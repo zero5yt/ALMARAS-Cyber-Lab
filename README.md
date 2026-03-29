@@ -3,8 +3,8 @@
 Automated setup for Metasploit Framework and Ngrok Tunneling in Termux.
 
 ## 🛠 Installation
-1. `git clone https://github.com/[YOUR_USERNAME]/[REPO_NAME]`
-2. `cd [REPO_NAME]`
+1. `git clone https://github.com/zero5yt/ALMARAS-Cyber-Lab`
+2. `cd ALMARAS-Cyber-Lab`
 3. `chmod +x setup.sh`
 4. `./setup.sh`
 
